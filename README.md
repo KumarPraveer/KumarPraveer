@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KumarPraveer
 - 👀 I’m interested in Development 
-- 🌱 My Strength :- HTML, CSS, JavaScript, C++, C, Java, Adobe XD, Command Line Arguments, Node, Express, React, Jquery, Github and much more...
+- 🌱 My Strength :- HTML, CSS, JavaScript, C++, C, Java, Data Structure, Adobe XD, Command Line Arguments, Node, Express, React, Typescript, Jquery, Github, Performance Optimization, MongoDB, SQL, Heroku, Deployment and much more...
 - 💞️ I’m interested to learn Artifitial Intelligence and Machine Learning.
 - 📫 How to reach me just by sending me message on instagram(kumarpraveer3)
