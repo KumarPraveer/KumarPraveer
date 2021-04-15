@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KumarPraveer
 - 👀 I’m interested in Development 
-- 🌱 I’m currently React and flutter
-- 💞️ I’m looking to collaborate with OYO
+- 🌱 My Strength :- HTML, CSS, JavaScript, C++, C, Java, Adobe XD, Command Line Arguments, Node, Express, React, Jquery, Github and much more...
+- 💞️ I’m interested to learn Artifitial Intelligence and Machine Learning.
 - 📫 How to reach me just by sending me message on instagram(kumarpraveer3)
