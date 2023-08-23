@@ -2,4 +2,4 @@
 - 👀 I’m interested in Development 
 - 🌱 My Strength :- HTML, CSS, JavaScript, C++, C, Java, Data Structure, Adobe XD, Command Line Arguments, Node, Express, React, Typescript, Jquery, Github, Performance Optimization, MongoDB, SQL, Heroku, Deployment and much more...
 - 💞️ I’m interested to learn Artifitial Intelligence and Machine Learning.
-- 📫 How to reach me just by sending me message on instagram(kumarpraveer3)
+- 📫 How to reach me just by sending me message on instagram(kumarpraveeer3)
